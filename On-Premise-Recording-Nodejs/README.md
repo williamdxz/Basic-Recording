@@ -36,7 +36,7 @@ The Agora Recording SDK is not included in the repository. To make everything wo
 ### Quick Start 
 * Change to `record` folder
 * Ensure `agorasdk.node` has been properly compiled based on previous steps
-* Change the code in `sdkdemo.js`, replace the placeholder with the appid you registered from Agora Official Website
+* Change the code in `sdkdemo.js`, replace the placeholder with the appid you registered from Agora Official Website (create a new project, then you can view or copy the appid)
 
 ```
 fs.mkdir(storageDir, {recursive: true}, err => {
